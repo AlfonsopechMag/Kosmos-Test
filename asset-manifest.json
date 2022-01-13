@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kosmos-Test/static/css/main.dd427552.css",
+    "main.js": "/Kosmos-Test/static/js/main.12c2a660.js",
+    "static/js/787.f3db3495.chunk.js": "/Kosmos-Test/static/js/787.f3db3495.chunk.js",
+    "index.html": "/Kosmos-Test/index.html",
+    "main.dd427552.css.map": "/Kosmos-Test/static/css/main.dd427552.css.map",
+    "main.12c2a660.js.map": "/Kosmos-Test/static/js/main.12c2a660.js.map",
+    "787.f3db3495.chunk.js.map": "/Kosmos-Test/static/js/787.f3db3495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd427552.css",
+    "static/js/main.12c2a660.js"
+  ]
+}
